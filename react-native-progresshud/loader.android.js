@@ -3,7 +3,7 @@ import styles from './styles';
 import  {
     View,
     Text,
-    ActivityIndicatorIOS,
+    ProgressBarAndroid,
     StyleSheet
 } from 'react-native';
 export default class loader extends React.Component {

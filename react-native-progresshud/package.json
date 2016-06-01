@@ -1,0 +1,26 @@
+{
+  "name": "react-native-progresshud",
+  "version": "0.0.3",
+  "description": "react-native progress hud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/follyxing/react-native-progresshud.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "hud",
+    "loading"
+  ],
+  "author": "xingcheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/follyxing/react-native-progresshud/issues"
+  },
+  "homepage": "https://github.com/follyxing/react-native-progresshud#readme"
+}
