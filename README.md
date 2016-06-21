@@ -1,10 +1,10 @@
 # React Native ProgressHUD
 
- ![image](https://github.com/follyxing/react-native-progresshud/screenshots/1.gif)
+ ![image]( https://github.com/follyxing/react-native-progresshud/blob/master/screenshots/1.gif)
  
- ![image](https://github.com/follyxing/react-native-progresshud/screenshots/2.gif)
+ ![image]( https://github.com/follyxing/react-native-progresshud/blob/master/screenshots/2.gif)
  
- ![image](https://github.com/follyxing/react-native-progresshud/screenshots/3.gif)
+  ![image]( https://github.com/follyxing/react-native-progresshud/blob/master/screenshots/3.gif)
  
  
 
@@ -24,7 +24,7 @@ class demo extends Component {
     return (
       <View style={styles.container}>
       	...
-        <ProgressHUD showHUD={true} showLoading ={false} text ='Loading...'/>
+        <ProgressHUD showHUD={true} showLoading ={true} text ='Loading...'/>
       </View>
 
     );
